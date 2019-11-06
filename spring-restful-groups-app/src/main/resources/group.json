@@ -1,0 +1,17 @@
+[
+    {
+        "name": "admin",
+        "status": "pending",
+        "description": "admin group"
+    },
+    {
+        "name": "dev group",
+        "status": "pending",
+        "description": "development group"
+    },
+    {
+        "name": "normal role",
+        "status": "pending",
+        "description": "general group"
+    }
+]
